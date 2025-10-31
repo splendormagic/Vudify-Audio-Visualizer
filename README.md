@@ -14,7 +14,7 @@ Perfect for YouTube, Instagram, TikTok, or sharing your latest release.
 👉 [Visit Vudify.com](https://vudify.com)
 
 ## 💡 Example
-![Vudify Example](Vudify-GIF2.gif)
+![Vudify Example](card.jpg)
 
 ---
 
