@@ -14,7 +14,7 @@ Perfect for YouTube, Instagram, TikTok, or sharing your latest release.
 👉 [Visit Vudify.com](https://vudify.com)
 
 ## 💡 Example
-![Vudify Example](https://vudify.com/assets/Vudify-GIF2.gif)
+![Vudify Example](Vudify-GIF2.gif)
 
 ---
 
